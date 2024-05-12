@@ -10,13 +10,21 @@
 
  # matériel:
  Module L298N
+ 
 Capteur ultrason
+
 Esp32 cam 
+
 Kit robot voiture 2 roues 
+
 Batterie
 Fils connexion
+
 Capteur infrarouge*2 
+
 Buzzer 
+
 Ftdi module
+
 Breadbord
 
