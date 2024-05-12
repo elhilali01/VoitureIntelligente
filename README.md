@@ -1,4 +1,4 @@
-# VoitureIntelligente
+# Voiture Intelligente
  Système de Sécurité des Piétons avec Freinage Automatique
  
 # fonctionnalités:
