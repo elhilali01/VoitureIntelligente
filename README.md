@@ -1,5 +1,7 @@
 # Voiture Intelligente
  Système de Sécurité des Piétons avec Freinage Automatique
+
+ ![alt tag](https://github.com/elhilali01/VoitureIntelligente/blob/main/pic.jpg)
  
 # fonctionnalités:
 - Détection des piétons: Utilisation d'algorithmes d'intelligence artificielle pour détecter la présence de piétons dans le champ de vision de la voiture.
